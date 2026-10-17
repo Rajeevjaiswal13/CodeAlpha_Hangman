@@ -46,7 +46,7 @@ Install Python 3 on your computer.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Rajeevjaiswal13/CodeAlpha_Hangman.git
    ```
 
 2. Open the project folder:
