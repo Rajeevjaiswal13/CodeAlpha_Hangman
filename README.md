@@ -103,4 +103,4 @@ Through this project, I practised:
 
 ## Author
 
-Rajeev Jaiswal
+Rajeev Kumar Jaiswal
